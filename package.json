@@ -1,0 +1,14 @@
+{
+  "name": "leon-template",
+  "version": "1.0.0",
+  "description": "<img src='./images/leon-preview.png'></img>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.2"
+  }
+}
