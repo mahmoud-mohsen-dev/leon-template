@@ -4,7 +4,7 @@
 
 ## Try it Live!
 
-Check out the live app [Leon]()
+Check out the live app [Leon](https://leon-template-beta.vercel.app/)
 
 ## Tools Used
 
@@ -16,7 +16,7 @@ Check out the live app [Leon]()
 1. Clone this repository.
 
     ```bash
-    git clone
+    git clone https://github.com/mahmoud-mohsen-dev/leon-template.git
     ```
 
 2. Navigate to the Project Directory:
